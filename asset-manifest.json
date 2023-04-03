@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://ejicash.github.io/csb-lez2m2/static/js/main.c06cec4c.chunk.js",
+    "main.js.map": "https://ejicash.github.io/csb-lez2m2/static/js/main.c06cec4c.chunk.js.map",
+    "runtime-main.js": "https://ejicash.github.io/csb-lez2m2/static/js/runtime-main.d227acc8.js",
+    "runtime-main.js.map": "https://ejicash.github.io/csb-lez2m2/static/js/runtime-main.d227acc8.js.map",
+    "static/js/2.05d131db.chunk.js": "https://ejicash.github.io/csb-lez2m2/static/js/2.05d131db.chunk.js",
+    "static/js/2.05d131db.chunk.js.map": "https://ejicash.github.io/csb-lez2m2/static/js/2.05d131db.chunk.js.map",
+    "index.html": "https://ejicash.github.io/csb-lez2m2/index.html",
+    "precache-manifest.ec1b0f57190b1022fdd516b1a73ffe5b.js": "https://ejicash.github.io/csb-lez2m2/precache-manifest.ec1b0f57190b1022fdd516b1a73ffe5b.js",
+    "service-worker.js": "https://ejicash.github.io/csb-lez2m2/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d227acc8.js",
+    "static/js/2.05d131db.chunk.js",
+    "static/js/main.c06cec4c.chunk.js"
+  ]
+}
